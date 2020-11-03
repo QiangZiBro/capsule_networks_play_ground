@@ -1,1 +1,1 @@
-# Investigating for various capsule networks implementations
+# Investigating various capsule networks implementations
