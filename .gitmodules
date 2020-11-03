@@ -4,3 +4,6 @@
 [submodule "Stacked-Capsule-Autoencoders-PyTorch"]
 	path = Stacked-Capsule-Autoencoders-PyTorch
 	url = https://github.com/MuhammadMomin93/Stacked-Capsule-Autoencoders-PyTorch
+[submodule "capsule_networks/3rd/Stacked-Capsule-Autoencoders-PyTorch"]
+	path = capsule_networks/3rd/Stacked-Capsule-Autoencoders-PyTorch
+	url = https://github.com/MuhammadMomin93/Stacked-Capsule-Autoencoders-PyTorch
