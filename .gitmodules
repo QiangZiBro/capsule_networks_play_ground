@@ -1,0 +1,3 @@
+[submodule "capsule_networks/3rd/capsules-utils"]
+	path = capsule_networks/3rd/capsules-utils
+	url = https://github.com/gchochla/capsules-utils
